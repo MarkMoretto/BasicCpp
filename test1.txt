@@ -1,0 +1,2 @@
+ll was going well, and I was obviously getting high-fives all over the place, but I unfortunately reached a stumbling block that took me several hours to figure out what was going on.
+If only I’d been more familiar with what was going on under the hood with Python variables, I would’ve saved myself a few hours.
